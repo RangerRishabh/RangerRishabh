@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangerrishabh" alt="rangerrishabh" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **flutter and AWS**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **C,Java and figma**
+- 💬 Ask me about **C,Java,figma and Pentration Testing**
 
-- 📫 How to reach me **rishabhjha2021@gmail.com**
+- 📫 How to reach me **rishabhjha018@gmail.com**
 
 - ⚡ Fun fact **I can be funny sometimes**
 

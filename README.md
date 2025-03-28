@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangerrishabh" alt="rangerrishabh" /></a> </p>
 
-- 🌱 I’m currently learning **flutter and AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💬 Ask me about **C,Java,figma and Pentration Testing**
+- 💬 Ask me about **Cloud Computing(AWS), Java, C and Figma**
 
 - 📫 How to reach me **rishabhjha018@gmail.com**
 
